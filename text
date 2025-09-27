@@ -1,0 +1,23 @@
+Headings → text-slate-900
+
+Paragraphs → text-slate-700
+
+Links/CTAs → text-indigo-600
+
+font-Poppins
+
+cards:
+bg-white shadow-md rounded-xl
+bg-slate-50 shadow-sm
+hover:shadow-lg transition
+
+bottons:
+bg-indigo-600 text-white hover:bg-indigo-700
+bg-blue-600 text-white hover:bg-blue-700
+sec
+bg-slate-700 text-white hover:bg-slate-800 
+bg-gray-200 text-slate-800 hover:bg-gray-300
+
+Outline / Ghost style:
+
+border border-slate-400 text-slate-700 hover:bg-slate-100 → clean and light
